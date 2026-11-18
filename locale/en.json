@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sidebar: fold panels into More",
+    "description": "Keeps a single More row above the workspace list and moves every panel entry (Plugins, market, scheduled tasks, context, skills) into that menu."
+  }
+}
